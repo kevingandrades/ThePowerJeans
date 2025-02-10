@@ -21,9 +21,9 @@
 ![html-badge]
 ![css-badge]
 
-<a href="https://github.com/kevingjs/ThePowerJeans/issues">Report bug</a>
+<a href="https://github.com/kevingandrades/ThePowerJeans/issues">Report bug</a>
 ·
-<a href="https://github.com/kevingjs/ThePowerJeans/issues">Suggest something</a>
+<a href="https://github.com/kevingandrades/ThePowerJeans/issues">Suggest something</a>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ## 🔑 License
 
-[MIT](https://github.com/kevingjs/ThePowerJeans/blob/main/LICENSE) - Created by [**Keving Andrades**](https://github.com/kevingjs)
+[MIT](https://github.com/kevingandrades/ThePowerJeans/blob/main/LICENSE) - Created by [**Keving Andrades**](https://github.com/kevingandrades)
 
 
 ## © Credits
